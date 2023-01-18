@@ -1,6 +1,6 @@
 # React ToDo App
 
-[Demo link](https://andrii-kuzmenko.github.io/todo-app/)
+[DEMO LINK](https://andrii-kuzmenko.github.io/todo-app/)
 
 It is a simple ToDo app working as described below: (DEMO: [TODO app](https://Bibicutu.github.io/react_todo-app/))
 
